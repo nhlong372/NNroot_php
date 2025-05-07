@@ -35,9 +35,9 @@ define('OPENPHONECOMBO',false);
 /* Cấu hình chung */
 $config = array(
     'author' => array(
-        'name' => 'Long Nguyễn',
-        'email' => 'nguyenhoanglong0307.nina@gmail.com',
-        'timefinish' => '11/07/2024'
+        'name' => 'N/A',
+        'email' => 'N/A',
+        'timefinish' => '07/05/2025'
     ),
     'arrayDomainSSL' => array(),
     'database' => array(
